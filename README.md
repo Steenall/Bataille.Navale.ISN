@@ -1,2 +1,2 @@
-# Bataille.Navale.ISN
-Python
+# Bataille Navale ISN
+Projet de bataille navale en Python
